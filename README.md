@@ -11,4 +11,5 @@ Here's a static demonstration of it in use: https://dow-smith.com/project-hub
 * supports password-protected posts too
 * highlight prototype mobile/desktop support on device
 
+Screenshot ↓
 ![Project Hub Demo](https://dow-smith.com/project-hub/demo.png)
