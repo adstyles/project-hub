@@ -7,6 +7,7 @@ A minimal Wordpress theme for sharing project updates with clients. Supports pas
 Here's a static demonstration of it in use: https://dow-smith.com/project-hub
 
 ## Features
+* requires [ACF Pro](https://www.advancedcustomfields.com/pro/)
 * create a Post to add a new project
 * supports password-protected posts too
 * highlight prototype mobile/desktop support on device
